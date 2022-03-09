@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700&display=swap");
+
+:root {
+  --yello: #fadc60;
+  --tosca: #42c3e2;
+  --light-grey: #e5e5e5;
+  --dark-grey: #5c5959;
+  --font-style: "Syne", sans-serif;
+  --regular: 400;
+  --bold: 500;
+  --super: 700;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: var(--tosca); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--tosca); 
+}
+
+@media (min-width: 768px) {
+  html {
+    width: auto;
+    height: auto;
+  }
+
+  .footer {
+    font-size: 14px;
+    font-weight: var(--bold);
+    bottom: 0 !important;
+    position: absolute;
+  }
+}
+
+html {
+  width: auto;
+  height: auto;
+}
+
+body {
+  margin: auto;
+  font-family: var(--font-style);
+  background-color: var(--yello);
+  font-size: 18px;
+}
+
+.title {
+  font-weight: var(--super);
+  font-size: 40px;
+}
+
+.subtitle {
+  font-weight: var(--bold);
+}
+
+.menu {
+  font-size: 20px;
+}
+
+
+.greeny {
+  color: var(--tosca);
+}
+
+.bold{
+  font-weight: var(--bold);
+}
+
+.super{
+  font-weight: var(--super);
+}
+
+.teks {
+  width: 50%;
+}
+
+.footer {
+  font-size: 18px;
+  font-weight: var(--super);
+}
+
+.register_submit{
+  background-color: var(--tosca);
+}
+
+.form-control,.form-select{
+  width: 100% !important;
+  border-radius: 10px;
+}
+
+.form-control{
+  background-color: var(--light-grey);
+}
+
+.form-select{
+  background-color: var(--yello);
+}
+
+
+.register p{
+  font-size: 14px;
+  text-align: left;
+}
+
+.enroll, .sign-in{
+  background-color: white;
+  border-radius: 20px;
+  min-width: 325px !important;
+}

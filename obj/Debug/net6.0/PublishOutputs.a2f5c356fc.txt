@@ -1,0 +1,7 @@
+D:\PBKK\q1\bin\Debug\net6.0\publish\assist_io.exe
+D:\PBKK\q1\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\PBKK\q1\bin\Debug\net6.0\publish\appsettings.json
+D:\PBKK\q1\bin\Debug\net6.0\publish\assist_io.dll
+D:\PBKK\q1\bin\Debug\net6.0\publish\assist_io.deps.json
+D:\PBKK\q1\bin\Debug\net6.0\publish\assist_io.runtimeconfig.json
+D:\PBKK\q1\bin\Debug\net6.0\publish\assist_io.pdb
